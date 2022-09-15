@@ -41,6 +41,7 @@ h1{
 
 section{
     background-color: black;
+    border-style: outset;
 }
 
 img{
